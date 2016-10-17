@@ -3,13 +3,13 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
-/Assets/AssetStoreTools*
+/Assets/UnityTestTools*
 bin/
 test-results/
 .idea/
 obj/
 packages/
-
+*.asset
 *.meta
 packages.config
 
